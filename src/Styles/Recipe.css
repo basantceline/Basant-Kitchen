@@ -1,0 +1,49 @@
+.recipeContainer {
+    width: 90%;
+    margin: 2rem auto;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    border-radius: 1rem;
+}
+
+.recipeTitle {
+    font-size: 2rem;
+    padding: 0.5em;
+    color: #333;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+.recipeTime {
+    font-size: 1.7rem;
+    color: #333;
+    margin-left: 0.5em;
+    font-weight: 600;
+    margin-bottom: 0.5em;
+
+}
+
+.recipeIng {
+    font-size: 1.25rem;
+    color: #555;
+    margin-left: 0.6em;
+    margin-bottom: 0.5em;
+
+}
+
+.recipeIng li {
+    font-size: 1.25rem;
+    margin-left: 1.2em;
+
+}
+
+.recipeMethod {
+    font-size: 1rem;
+    color: #333;
+    width: 50%;
+    margin-left: 1.2em;
+    letter-spacing: 1.1px;
+    text-align: justify;
+    padding-bottom: 1em;
+}

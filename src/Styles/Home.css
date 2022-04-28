@@ -1,0 +1,13 @@
+.loading,
+.error {
+    text-align: center;
+    font-size: 3rem;
+    margin: 1em auto;
+    width: 100%
+}
+
+.home {
+    font-size: 1.25rem;
+    width: 90%;
+    margin: 2.5rem auto;
+}

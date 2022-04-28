@@ -1,0 +1,116 @@
+.createContainer {
+    width: 90%;
+    margin: 2rem auto;
+}
+
+.createContainer h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.createContainer label {
+    width: 50%;
+}
+
+.createContainer label span {
+    display: block;
+    margin-bottom: 0.6em;
+    text-align: center;
+    font-size: 1.25rem;
+
+
+}
+
+.createContainer input {
+    font-size: 1rem;
+    margin-bottom: 0.75em;
+    box-sizing: border-box;
+    background-color: rgb(243, 240, 255);
+    border: 1px solid rgb(243, 240, 255);
+    padding: 0.7em;
+    outline: none;
+    width: 100%;
+
+}
+
+.createContainer textarea {
+    font-size: 1rem;
+    margin-bottom: 0.75em;
+    box-sizing: border-box;
+    background-color: rgb(243, 240, 255);
+    border: 1px solid rgb(243, 240, 255);
+    padding: 1em;
+    outline: none;
+    width: 100%;
+    display: block;
+    resize: none;
+}
+
+.createContainer form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.createContainer button {
+
+    border: none;
+    border-radius: 4px;
+    padding: 0.7em;
+    font-size: 1rem;
+    margin-bottom: 1em;
+    color: white;
+    transition: 0.5s ease;
+    margin-top: 1em;
+}
+
+.createContainer button:hover {
+    box-shadow: 5px 5px 10px #58249C;
+    cursor: pointer;
+}
+
+/* .createIngredient input {
+    display: inline;
+    width: 75%;
+    margin-right: 1.25rem;
+} */
+
+.createIngContainer {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    column-gap: 1rem;
+
+}
+
+.error {
+    font-size: 2rem;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.err {
+    background-color: #58249C;
+    border: none;
+    border-radius: 4px;
+    padding: 0.7em;
+    font-size: 1rem;
+    margin-bottom: 1em;
+    color: white;
+    transition: 0.5s ease;
+    margin-top: 1em;
+}
+
+.err:hover {
+    box-shadow: 5px 5px 10px #58249C;
+    cursor: pointer;
+
+
+}
+
+.errorContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

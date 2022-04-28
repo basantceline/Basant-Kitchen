@@ -1,0 +1,56 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Amilo Chatpat",
+      "ingredients": [
+        " 2 cup Bhuja",
+        "2  piece potatoes",
+        "Few Fresh Green Peas",
+        "Onion, Corrainder, Cucumber"
+      ],
+      "method": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eos deserunt veniam facere quibusdam vitae in? Quasi sequi maxime recusandae ut, dicta fuga eligendi, totam consectetur vitae neque dolore nesciunt mollitia.",
+      "cookingTime": "10 min"
+    },
+    {
+      "id": "2",
+      "title": "Guliyo Chatpat",
+      "ingredients": [
+        " 2 cup Bhuja",
+        "2  piece potatoes",
+        "Few Fresh Green Peas",
+        "Onion, Corrainder, Cucumber",
+        "2 spoon honey"
+      ],
+      "method": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eos deserunt veniam facere quibusdam vitae in? Quasi sequi maxime recusandae ut, dicta fuga eligendi, totam consectetur vitae neque dolore nesciunt mollitia.",
+      "cookingTime": "10 min"
+    },
+    {
+      "id": "3",
+      "title": "Chicken Chatpat",
+      "ingredients": [
+        "2 piece of meat",
+        " 2 cup Bhuja",
+        "2  piece potatoes",
+        "Few Fresh Green Peas",
+        "Onion, Corrainder, Cucumber"
+      ],
+      "method": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eos deserunt veniam facere quibusdam vitae in? Quasi sequi maxime recusandae ut, dicta fuga eligendi, totam consectetur vitae neque dolore nesciunt mollitia.",
+      "cookingTime": "10 min"
+    },
+    {
+      "title": "Rasilo Chapat",
+      "ingredients": [
+        "kagati 2 pieces",
+        "Nun",
+        "Besar",
+        "Bhuja",
+        "Cucumber",
+        "Usineko Aalu"
+      ],
+      "method": "Majjale sab chij lai molera banauni",
+      "cookingTime": "15min",
+      "id": "59YnxCl"
+    }
+  ]
+}

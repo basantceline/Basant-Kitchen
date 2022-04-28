@@ -1,0 +1,19 @@
+.colorSelector {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 2rem;
+    gap: 0.5rem;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.colorSelector div {
+    border-radius: 50%;
+    display: inline;
+    font-size: 1.25rem;
+    padding: 0.5em;
+    cursor: pointer;
+}
